@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my website
+
+I am Stipendiary Fellow at the School of Economics of [The University of Edinburgh](https://www.ed.ac.uk/economics).
+
+## Working papers
+
+
 
 You can use the [editor on GitHub](https://github.com/frarodri/frarodri.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
