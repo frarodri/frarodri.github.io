@@ -4,7 +4,7 @@ I am Stipendiary Fellow at the [School of Economics of The University of Edinbur
 
 I am interested in the economics of the family, demographic changes and quantitative macroeconomics.
 
-You can download here my **[CV](frarodri.github.io/CV/Academic CV.pdf)**.
+Download my **[CV](frarodri.github.io/CV/Academic CV.pdf)**.
 
 ## Working papers
 
