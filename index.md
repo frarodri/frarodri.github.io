@@ -1,4 +1,4 @@
-## Welcome to my website
+## Welcome to my website!
 
 I am Stipendiary Fellow at the [School of Economics of The University of Edinburgh](https://www.ed.ac.uk/economics).
 
