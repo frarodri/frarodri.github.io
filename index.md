@@ -2,7 +2,7 @@
 
 I am Stipendiary Fellow at the [School of Economics of The University of Edinburgh](https://www.ed.ac.uk/economics).
 
-I am interested in the economics of the family, demographic changes and quantitative macroeconomics.
+My research interests include the Family Economics, Demography and Quantitative Macroeconomics.
 
 [Download my CV](frarodri.github.io/CV/Academic CV.pdf).
 
