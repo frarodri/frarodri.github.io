@@ -18,4 +18,6 @@ This paper quantifes the importance of changes in the sex ratio on married coupl
 
 **Childcare Subsidies and Pensions** with Lidia Cruces
 
-Draft coming very soon.
+Is it possible to simultaneously increase female labor force participation and fertility? In this paper we consider the policy with most promising empirical support: childcare subsidies. We build an overlapping generations model in which women choose fertility and labor force participation along their life cycle to assess the impact of these subsidies on pension finance sustainability.
+
+*Draft coming very soon.*
