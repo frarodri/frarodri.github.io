@@ -16,6 +16,6 @@ This paper quantifes the importance of changes in the sex ratio on married coupl
 
 ## Work in progress
 
-**Childcare subsidies and pensions** with Lidia Cruces
+**Childcare Subsidies and Pensions** with Lidia Cruces
 
 Draft coming very soon.
