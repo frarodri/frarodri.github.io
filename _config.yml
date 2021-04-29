@@ -5,4 +5,4 @@ google_analytics: UA-181040919-1
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
-baseurl: /frarodri.github.io
+#baseurl: /frarodri.github.io
