@@ -4,7 +4,7 @@ I am Stipendiary Fellow at the [School of Economics of The University of Edinbur
 
 My research interests include Family Economics, Labor and Demographic Economics and Quantitative Macroeconomics.
 
-[Download my CV](<frarodri.github.io/CV/Academic CV.pdf>).
+[Download my CV](CV/Academic CV.pdf).
 
 Email me at [frodrigu@ed.ac.uk](mailto:frodrigu@ed.ac.uk).
 
