@@ -1,12 +1,12 @@
 ## Welcome to my website!
 
-I am Stipendiary Fellow at the [School of Economics of The University of Edinburgh](https://www.ed.ac.uk/economics).
+I am a post doctoral researcher at the [Department of Economics and Business, University of Cagliari](https://www.unica.it/unica/en/dip_scienzeecoaziend.page).
 
 My research interests include Family Economics, Labor and Demographic Economics and Quantitative Macroeconomics.
 
 [Download my CV](CV/Academic CV.pdf).
 
-Email me at [frodrigu@ed.ac.uk](mailto:frodrigu@ed.ac.uk).
+Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
 
 ## Working papers
 
