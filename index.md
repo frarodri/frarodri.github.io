@@ -1,4 +1,4 @@
-## F. Javier Rodríguez-Román
+## Hello,
 
 I am a post doctoral researcher at the [Department of Economics and Business, University of Cagliari](https://www.unica.it/unica/en/dip_scienzeecoaziend.page).
 
