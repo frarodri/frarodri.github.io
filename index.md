@@ -11,6 +11,7 @@ My research interests include Family Economics, Labor and Demographic Economics 
 Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
 
 ## Working papers
+---
 
 **[The Sex Ratio, Marriage and Bargaining: A Look at China](Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf)**\
 (R&R - Review of Economic Dynamics)
@@ -21,7 +22,8 @@ I study married people's time allocation decisions under an unbalanced sex ratio
 
 Female labour force participation and fertility levels directly impact social security, especially when it relies on a pay-as-you-go scheme. In this paper, we quantify the impact of childcare subsidisation policies on a PAYG social security system. We build an overlapping generations model in which women decide how many children to have, the allocation of childcare time among different alternatives, and their labour force par-ticipation along the life cycle. We calibrate the model to Spanish data and use it to experiment with different childcare subsidisation policies. We find that childcare subsidies increase mother’s labour force participation and fertility minimally. Therefore, they have a negative effect on the present value of social security budget balance.
 
-## Work in progress 
+## Work in progress
+---
 
 **Child subsidies, female labour force participation and fertility: from short to long-run** with [Lidia Cruces](http://economics.uc3m.es/personal/lidia-cruces/) (Job market paper, draft coming soon)
 
