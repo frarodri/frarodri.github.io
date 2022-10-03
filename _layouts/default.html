@@ -38,6 +38,9 @@
     body {
       color: black;
     }
+    img {
+      border-radius: 50%;
+    }
     </style>
   </head>
   <body>
@@ -47,7 +50,7 @@
         <h1><p>{{site.title | default: site.github.repository_name}}</p></h1>
 
         {% if site.logo %}
-          <img class="circular--square" src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
