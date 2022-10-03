@@ -60,8 +60,10 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <!--<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>-->
+        <a href="{{ site.github.owner_url }}">
         <img src="/assets/images/GitHub.png" alt="GitHub icon" style="width:42px;height:42px;" />
+        </a>
         {% endif %}
 
         {% if site.show_downloads %}
