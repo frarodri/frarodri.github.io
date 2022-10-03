@@ -2,7 +2,7 @@ I am a post doctoral researcher at the **[Department of Economics and Business, 
 
 For the 2022 autumn term I will be visiting the **[Centre for Macroeconomics at the London School of Economics and Political Science](https://www.lse.ac.uk/CFM)**.
 
-**I am be on the 2022-2023 Econ Job Market**.
+**I am on the 2022-2023 Econ Job Market!**.
 
 My research interests include Family Economics, Labor and Demographic Economics and Quantitative Macroeconomics.
 
