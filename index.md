@@ -1,5 +1,3 @@
-## Hello,
-
 I am a post doctoral researcher at the [Department of Economics and Business, University of Cagliari](https://www.unica.it/unica/en/dip_scienzeecoaziend.page).
 
 Currently visiting the [Centre for Macroeconomics at the London School of Economics](https://www.lse.ac.uk/CFM) for the 2022 autumn term.
