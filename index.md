@@ -33,7 +33,6 @@ function myFunction() {
 }
 </script>
 
-
 **[Quantifying the Impact of Childcare Subsidies on Social Security](Papers/Quantifying the Impact of Childcare Subsidies on Social Security.pdf)** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
 
 Female labour force participation and fertility levels directly impact social security, especially when it relies on a pay-as-you-go scheme. In this paper, we quantify the impact of childcare subsidisation policies on a PAYG social security system. We build an overlapping generations model in which women decide how many children to have, the allocation of childcare time among different alternatives, and their labour force par-ticipation along the life cycle. We calibrate the model to Spanish data and use it to experiment with different childcare subsidisation policies. We find that childcare subsidies increase mother’s labour force participation and fertility minimally. Therefore, they have a negative effect on the present value of social security budget balance.
