@@ -16,7 +16,6 @@ Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it
 
 **[The Sex Ratio, Marriage and Bargaining: A Look at China](Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf)**\
 *(Revision Requested, Review of Economic Dynamics)*
-
 <button onclick="myFunction()"> Abstract </button>
 
 <div id="myDIV">
@@ -27,12 +26,13 @@ I study married people's time allocation decisions under an unbalanced sex ratio
 function myFunction() {
   var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
     x.style.display = "none";
+  } else {
+    x.style.display = "block";
   }
 }
 </script>
+
 
 **[Quantifying the Impact of Childcare Subsidies on Social Security](Papers/Quantifying the Impact of Childcare Subsidies on Social Security.pdf)** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
 
