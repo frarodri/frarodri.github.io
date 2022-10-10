@@ -27,7 +27,7 @@ Female labour force participation and fertility levels directly impact social se
 
 ---
 
-**Child subsidies, female labour force participation and fertility: from short to long-run** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0) (Job market paper, draft coming soon)
+**Cash transfers, female labour force participation and fertility: from short to long-run** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0) (Job market paper, draft coming soon)
 
 **A Theory of Structural Change, Home Production and Leisure** with Fenicia Cossu, [Alessio Moro](http://www.alessiomoro.it/) and [Silvio Tunis](https://sites.google.com/view/silviotunis/home-page) (Draft coming soon)
 
