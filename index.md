@@ -10,6 +10,14 @@ My main area of research is Macroeconomics and Labour Economics. In particular, 
 
 Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
 
+## Job Market Paper
+
+[**Cash transfers, female labour force participation and fertility: from short to long-run**](Papers/Cash transfers, female labour force participation and fertility from short to long run) with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0) 
+
+<button class="abstract_button" onclick="ShowAndHide('abstractjmp')"><span class="text">Abstract</span></button>
+
+<div ID="abstractjmp" STYLE="display:none"><p>Developed countries face a demographic scenario of population decline driven by low fertility rates. As a response, governments are deploying family policies to increase the number of children. The empirical literature cleanly identifies the short-term effects of these policy interventions. In this paper, we propose a dynamic life-cycle model of fertility and labour force participation for women, and calibrate it to the results of a natural experiment involving cash transfers upon birth in Spain. We retrieve the long-term effects via the model, and find that they are about half as large. Moreover, find that an alternative policy consisting of childcare subsidisation yields only slightly smaller effects on fertility, but positive labour force participation effects. Finally, we explore how the coexistence in Spain of temporal and permanent contracts with different earnings profiles affects fertility and interacts with cash transfers. The effects of this type of labour market are large, driven by increased returns to experience during crucial child-rearing years. However, the results on the effects of the cash transfers do not change in a scenario with a unique type of contract.</p></div>
+
 ## Working papers
 
 ---
@@ -31,8 +39,6 @@ Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it
 ## Work in progress
 
 ---
-
-**Cash transfers, female labour force participation and fertility: from short to long-run** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0) (Job market paper, draft coming soon)
 
 **A Theory of Structural Change, Home Production and Leisure** with Fenicia Cossu, [Alessio Moro](http://www.alessiomoro.it/) and [Silvio Tunis](https://sites.google.com/view/silviotunis/home-page) (Draft coming soon)
 
