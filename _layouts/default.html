@@ -45,7 +45,7 @@
     body {
       color: black;
     }
-    img {
+    .round {
       border-radius: 50%;
     }
     .abstract_button {
@@ -82,7 +82,7 @@
         <h1><p>{{site.title | default: site.github.repository_name}}</p></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img class="round" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
