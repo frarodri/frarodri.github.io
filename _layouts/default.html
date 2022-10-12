@@ -45,6 +45,9 @@
     .round {
       border-radius: 50%;
     }
+    .large_on_hover: hover {
+      transform:scale(2); 
+     }
     .abstract_button {
       appearance: none;     
       background-color: #FFFFFF;
@@ -63,9 +66,6 @@
     #img-link, #img-link img {
      text-decoration: none !important;
      border:0px !important;
-    }
-    #img-link img: hover {
-     transform:scale(1.25);
     }
     </style>
     <script>
@@ -104,17 +104,17 @@
         <img src="/assets/images/pdf.png" alt="PDF icon" style="width:14px;height:14px;" /><span><p style=="font-size:18px"> CV</p></span>
         </a>-->
         <a id="img-link" href=""mailto:franciscojavier.rodr@unica.it"">
-        <img id="img-link" src="/assets/images/email.png" alt="Email icon" style="width:35px;height:35px;" />
+        <img class="large_on_hover" id="img-link" src="/assets/images/email.png" alt="Email icon" style="width:35px;height:35px;" />
         </a>
         <a id="img-link" href="https://twitter.com/javirodriecon">
-        <img id="img-link" src="/assets/images/twitter.png" alt="Twitter icon" style="width:35px;height:35px;" />
+        <img class="large_on_hover" id="img-link" src="/assets/images/twitter.png" alt="Twitter icon" style="width:35px;height:35px;" />
         </a>
         <a id="img-link" href="https://www.linkedin.com/in/francisco-javier-rodr%C3%ADguez-rom%C3%A1n/">
-        <img id="img-link" src="/assets/images/Linkedin.png" alt="Linkedin icon" style="width:35px;height:35px;" />
+        <img class="large_on_hover" id="img-link" src="/assets/images/Linkedin.png" alt="Linkedin icon" style="width:35px;height:35px;" />
         </a>
         </a>
         <a id="img-link" href="{{ site.github.owner_url }}">
-        <img id="img-link" src="/assets/images/GitHub.png" alt="GitHub icon" style="width:35px;height:35px;" />
+        <img class="large_on_hover" id="img-link" src="/assets/images/GitHub.png" alt="GitHub icon" style="width:35px;height:35px;" />
         </a>
         {% endif %}
 
