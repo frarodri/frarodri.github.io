@@ -64,7 +64,17 @@
      text-decoration: none !important;
      border:0px !important;
     }
-    .zoom:hover {
+    .thumbnail { 
+      top:-50px; 
+      left:-35px; 
+      display:block; 
+      z-index:999; 
+      cursor: pointer; 
+      -webkit-transition-property: all; 
+      -webkit-transition-duration: 0.3s; 
+      -webkit-transition-timing-function: ease; 
+    } 
+    .thumbnail:hover { 
       transform: scale(1.5); 
     }
     </style>
@@ -103,11 +113,9 @@
         <a href="CV/Academic CV.pdf">
         <img src="/assets/images/pdf.png" alt="PDF icon" style="width:14px;height:14px;" /><span><p style=="font-size:18px"> CV</p></span>
         </a>-->
-        <div class="zoom">
-          <a id="img-link" href=""mailto:franciscojavier.rodr@unica.it"">
-            <img id="img-link" src="/assets/images/email.png" alt="Email icon" style="width:35px;height:35px;" />
-          </a>
-        </div>
+        <a id="img-link" href=""mailto:franciscojavier.rodr@unica.it"">
+        <img class="thumbnail" id="img-link" src="/assets/images/email.png" alt="Email icon" style="width:35px;height:35px;" />
+        </a>
         <a id="img-link" href="https://twitter.com/javirodriecon">
         <img id="img-link" src="/assets/images/twitter.png" alt="Twitter icon" style="width:35px;height:35px;" />
         </a>
