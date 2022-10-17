@@ -14,7 +14,7 @@ Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it
 
 ---
 
-**[Cash transfers and fertility: from short to long run](Papers/Cash transfers and fertility from short to long run.pdf)** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
+**[Cash transfers and fertility: from short to long run]** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstractjmp')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/Cash transfers and fertility from short to long run.pdf','_blank')"><span class="text">Draft</span></button>
@@ -25,10 +25,11 @@ Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it
 
 ---
 
-**[The Sex Ratio, Marriage and Bargaining: A Look at China](Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf)**\
+**[The Sex Ratio, Marriage and Bargaining: A Look at China]**\
 *(Revision Requested, Review of Economic Dynamics)* 
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
+<button class="draft_button" onclick=" window.open('Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf','_blank')"><span class="text">Draft</span></button>
 
 <div ID="abstract1" STYLE="display:none"><p>I study married people's time allocation decisions under an unbalanced sex ratio, to answer whether bargaining between spouses should be accounted for (e.g. the collective model of the household) or not (unitary model). I document a substantial increase in the leisure ratio between married women and men in China from 1990 to 2010, calibrate a model of marriage, bargaining and marital sorting to the baseline year, and compare the predictions of a collective and unitary versions in 2010. In the former the leisure ratio does increase, but not in the latter. Via a decomposition exercise I find that the sex ratio accounts for about four hours of extra leisure per week for married women, driven by a decrease in paid work. The effect on married men is of the same magnitude and opposite sign. My results suggest that accounting for bargaining seems to be crucial to explain the sex-specific impact of changes that affect differently men and women.</p></div>
  
