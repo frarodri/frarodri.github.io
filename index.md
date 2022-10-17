@@ -14,7 +14,7 @@ Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it
 
 ---
 
-**[Cash transfers and fertility: from short to long run]** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
+**Cash transfers and fertility: from short to long run** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstractjmp')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/Cash transfers and fertility from short to long run.pdf','_blank')"><span class="text">Draft</span></button>
@@ -25,7 +25,7 @@ Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it
 
 ---
 
-**[The Sex Ratio, Marriage and Bargaining: A Look at China]**\
+**The Sex Ratio, Marriage and Bargaining: A Look at China**\
 *(Revision Requested, Review of Economic Dynamics)* 
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
