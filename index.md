@@ -6,9 +6,13 @@ My main area of research is Macroeconomics and Labour Economics. In particular, 
 
 **I am on the 2022-2023 Econ Job Market!**
 
-**[Download my CV](CV/Academic CV.pdf)**.
+<p><a href="/CV/Academic CV.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a></p>
 
-Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
+{::comment}
+**[Download my CV](CV/Academic CV.pdf)**.
+{:/comment}
+
+Get in touch me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com) or [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
 
 ## Job Market Paper
 
