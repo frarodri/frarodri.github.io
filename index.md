@@ -1,14 +1,18 @@
-I am a post doctoral researcher at the **[Department of Economics and Business, University of Cagliari](https://www.unica.it/unica/en/dip_scienzeecoaziend.page)**, and previously received my PhD from **[Universidad Carlos III de Madrid](http://economics.uc3m.es/)** in 2021.
+I am a post doctoral researcher at the [Department of Economics and Business, University of Cagliari](https://www.unica.it/unica/en/dip_scienzeecoaziend.page), and previously received my PhD from [Universidad Carlos III de Madrid](http://economics.uc3m.es/) in 2021.
 
-For the 2022 autumn term I will be visiting the **[Centre for Macroeconomics at the London School of Economics and Political Science](https://www.lse.ac.uk/CFM)**.
+For the 2022 autumn term I will be visiting the [Centre for Macroeconomics at the London School of Economics and Political Science](https://www.lse.ac.uk/CFM).
 
 My main area of research is Macroeconomics and Labour Economics. In particular, I am interested in Family, Demography, and Quantitative Macroeconomics.
 
 **I am on the 2022-2023 Econ Job Market!**
 
-**[Download my CV](CV/Academic CV.pdf)**.
+<p><a href="/CV/Academic CV.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a></p>
 
-Email me at [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
+{::comment}
+**[Download my CV](CV/Academic CV.pdf)**.
+{:/comment}
+
+Get in touch me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com) or [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
 
 ## Job Market Paper
 
