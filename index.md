@@ -12,7 +12,7 @@ My main area of research is Macroeconomics and Labour Economics. In particular, 
 **[Download my CV](CV/Academic CV.pdf)**.
 {:/comment}
 
-Get in touch me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com) or [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
+Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com) or [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
 
 ## Job Market Paper
 
