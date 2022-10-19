@@ -2,7 +2,7 @@ I am a post doctoral researcher at the [Department of Economics and Business, Un
 
 For the 2022 autumn term I will be visiting the [Centre for Macroeconomics at the London School of Economics and Political Science](https://www.lse.ac.uk/CFM).
 
-My main area of research is Macroeconomics and Labour Economics. In particular, I am interested in Family, Demography, and Quantitative Macroeconomics.
+My main area of research is macroeconomics and labour economics. In particular, I am interested in family, demography, and quantitative macroeconomics.
 
 **I am on the 2022-2023 Econ Job Market!**
 
