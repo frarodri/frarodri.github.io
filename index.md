@@ -53,7 +53,7 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 *A [video](https://www.youtube.com/watch?v=o87otn1SrIw&list=PLt9jC4Ylzr6AUG55BbfYYZTNjprOuHwrg&index=10) of my presentation at the IX Workshop on Structural Transformation and Macroeconomic Dynamics.*
 
 **Slums and urbanisation without structural transformation** with [Alessio Moro](http://www.alessiomoro.it/)\
-*A [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000) was invited to be resubmitted with revisions.*
+*A proposal to fund this project with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000) was invited to be resubmitted with revisions.*
 
 **Family Policies and Social Security** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
 
