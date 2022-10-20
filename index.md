@@ -51,5 +51,10 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 
 **A Theory of Structural Change, Home Production and Leisure** with Fenicia Cossu, [Alessio Moro](http://www.alessiomoro.it/) and [Silvio Tunis](https://sites.google.com/view/silviotunis/home-page) (Draft coming soon)
 
+**Slums and urbanisation without structural transformation** with [Alessio Moro](http://www.alessiomoro.it/)
+*Revision requested for a proposal sent to the 5th [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) Call of the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000)*
+
 **Family Policies and Social Security** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
+
+
 
