@@ -2,7 +2,7 @@ I am a post doctoral researcher at the [Department of Economics and Business, Un
 
 For the 2022 autumn term I will be visiting the [Centre for Macroeconomics at the London School of Economics and Political Science](https://www.lse.ac.uk/CFM).
 
-My main area of research is Macroeconomics and Labour Economics. In particular, I am interested in Family, Demography, and Quantitative Macroeconomics.
+My main area of research is macroeconomics and labour economics. In particular, I am interested in family, demography, and quantitative macroeconomics.
 
 **I am on the 2022-2023 Econ Job Market!**
 
@@ -12,7 +12,7 @@ My main area of research is Macroeconomics and Labour Economics. In particular, 
 **[Download my CV](CV/Academic CV.pdf)**.
 {:/comment}
 
-Get in touch me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com) or [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
+Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com) or [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
 
 ## Job Market Paper
 
@@ -30,7 +30,7 @@ Get in touch me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezro
 ---
 
 **The Sex Ratio, Marriage and Bargaining: A Look at China**\
-*(Revision Requested, Review of Economic Dynamics)* 
+*Revision Requested, Review of Economic Dynamics* 
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf','_blank')"><span class="text">Draft</span></button>
@@ -49,7 +49,13 @@ Get in touch me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezro
 
 ---
 
-**A Theory of Structural Change, Home Production and Leisure** with Fenicia Cossu, [Alessio Moro](http://www.alessiomoro.it/) and [Silvio Tunis](https://sites.google.com/view/silviotunis/home-page) (Draft coming soon)
+**A Theory of Structural Change, Home Production and Leisure** with Fenicia Cossu, [Alessio Moro](http://www.alessiomoro.it/) and [Silvio Tunis](https://sites.google.com/view/silviotunis/home-page) (Draft coming soon) \
+*A [video](https://www.youtube.com/watch?v=o87otn1SrIw&list=PLt9jC4Ylzr6AUG55BbfYYZTNjprOuHwrg&index=10) of my presentation at the [IX Workshop on Structural Transformation and Macroeconomic Dynamics](https://steg.cepr.org/events/ix-workshop-structural-transformation-and-macroeconomic-dynamics).*
+
+**Slums and urbanisation without structural transformation** with [Alessio Moro](http://www.alessiomoro.it/)\
+*A proposal to fund this project with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000) was invited to be resubmitted with revisions.*
 
 **Family Policies and Social Security** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
+
+
 
