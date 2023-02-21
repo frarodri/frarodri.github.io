@@ -15,7 +15,7 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 ---
 
 **The Sex Ratio, Marriage and Bargaining: A Look at China**\
-Revision Requested, *Review of Economic Dynamics* 
+Revision requested, *Review of Economic Dynamics* 
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf','_blank')"><span class="text">Draft</span></button>
