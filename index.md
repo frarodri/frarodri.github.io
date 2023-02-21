@@ -1,7 +1,5 @@
 I am a post doctoral researcher at the [Department of Economics and Business, University of Cagliari](https://www.unica.it/unica/en/dip_scienzeecoaziend.page), and previously received my PhD from [Universidad Carlos III de Madrid](http://economics.uc3m.es/) in 2021.
 
-For the 2022 autumn term I will be visiting the [Centre for Macroeconomics at the London School of Economics and Political Science](https://www.lse.ac.uk/CFM).
-
 My main area of research is macroeconomics and labour economics. In particular, I am interested in family, demography, and quantitative macroeconomics.
 
 **I am on the 2022-2023 Econ Job Market!**
@@ -14,7 +12,7 @@ My main area of research is macroeconomics and labour economics. In particular, 
 
 Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com) or [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
 
-## Job Market Paper
+## Working papers
 
 ---
 
@@ -24,10 +22,6 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 <button class="draft_button" onclick=" window.open('Papers/Cash transfers and fertility from short to long run.pdf','_blank')"><span class="text">Draft</span></button>
 
 <div ID="abstractjmp" STYLE="display:none"><p>Many developed countries are at risk of experiencing population decline due to low fertility rates, with potential adverse economic effects. As a response, governments are deploying family policies to increase the number of children. In this paper, we propose a dynamic life-cycle model of fertility and female labour force participation to assess their effectiveness. We use the short-run fertility effects of a cash transfer policy from Spain to calibrate its parameters. Using the calibrated model, we find that the impacts in the long run are half as large as in the short run. This is driven by differences in the responses of younger and older women at the time of implementation. The latter must react shortly after, as they cannot delay fertility much longer. The former anticipate their first birth. This generates additional births in the short run. We also study the effects of an alternative policy consisting of childcare subsidisation, and explore how the coexistence of temporary and permanent contracts in Spain, which have different earnings profiles, affects fertility and interacts with cash transfers, by raising the costs of career interruptions in crucial child-bearing years.</p></div>
-
-## Working papers
-
----
 
 **The Sex Ratio, Marriage and Bargaining: A Look at China**\
 *Revision Requested, Review of Economic Dynamics* 
