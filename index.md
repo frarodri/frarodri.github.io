@@ -2,9 +2,9 @@ I am a post doctoral researcher at the [Department of Economics and Business, Un
 
 My main area of research is macroeconomics and labour economics. In particular, I am interested in family, demography, and quantitative macroeconomics.
 
+{::comment}
 <p><a href="/CV/Academic CV.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a></p>
 
-{::comment}
 **[Download my CV](CV/Academic CV.pdf)**.
 {:/comment}
 
