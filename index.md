@@ -1,4 +1,4 @@
-I am a post doctoral researcher at the [Department of Economics and Business, University of Cagliari](https://www.unica.it/unica/en/dip_scienzeecoaziend.page), and previously received my PhD from [Universidad Carlos III de Madrid](http://economics.uc3m.es/) in 2021.
+I am a post doctoral researcher at the [Department of Economics, Universitat de Barcelona](https://www.ub.edu/school-economics/), and a junior researcher with the [Frankfurt Quantitative Macro Group at Goethe University](https://fqmg.de/). Previously I received my PhD from [Universidad Carlos III de Madrid](http://economics.uc3m.es/) in 2021.
 
 My main area of research is macroeconomics and labour economics. In particular, I am interested in family, demography, and quantitative macroeconomics.
 
@@ -8,7 +8,7 @@ My main area of research is macroeconomics and labour economics. In particular, 
 **[Download my CV](CV/Academic CV.pdf)**.
 {:/comment}
 
-Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com) or [franciscojavier.rodr@unica.it](mailto:franciscojavier.rodr@unica.it).
+Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com).
 
 ## Working papers
 
@@ -22,7 +22,8 @@ Revision requested, *Review of Economic Dynamics*
 
 <div ID="abstract1" STYLE="display:none"><p>I study married people's time allocation decisions under an unbalanced sex ratio, to answer whether bargaining between spouses should be accounted for (e.g. the collective model of the household) or not (unitary model). I document a substantial increase in the leisure ratio between married women and men in China from 1990 to 2010, calibrate a model of marriage, bargaining and marital sorting to the baseline year, and compare the predictions of a collective and unitary versions in 2010. In the former the leisure ratio does increase, but not in the latter. Via a decomposition exercise I find that the sex ratio accounts for about four hours of extra leisure per week for married women, driven by a decrease in paid work. The effect on married men is of the same magnitude and opposite sign. My results suggest that accounting for bargaining seems to be crucial to explain the sex-specific impact of changes that affect differently men and women.</p></div>
 
-**Cash transfers and fertility: from short to long run** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
+**Cash transfers and fertility: from short to long run** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)\
+*[Best Paper Award](https://twitter.com/EAYEconomists/status/1700116828700176594) at the 2023 [(Spring) Meeting of Young Economists](https://www.eaye.info/smye)*
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstractjmp')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/Cash transfers and fertility from short to long run.pdf','_blank')"><span class="text">Draft</span></button>
@@ -51,7 +52,7 @@ Revision requested, *Review of Economic Dynamics*
 ---
 
 **Slums and urbanisation without structural transformation** with [Alessio Moro](http://www.alessiomoro.it/)\
-*A proposal to fund this project with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000) was invited to be resubmitted with revisions.*
+*A proposal to fund this project with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000) has been accepted, pending budget approval.*
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract3')"><span class="text">Abstract</span></button>
 
