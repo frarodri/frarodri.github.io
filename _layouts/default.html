@@ -107,7 +107,10 @@
 
         {% if site.logo %}
           <img class="round" src="{{site.logo | relative_url}}" alt="Logo" />
-          <img class="image" src="/assets/images/UB_SchoolofEconomics.jpg" alt="Logo UB School of Economics" />
+          <a id="img-link" href="https://www.ub.edu/school-economics/researchers/rodriguez-roman-francisco-javier/">
+          <img class="image" id="img-link" src="/assets/images/UB_SchoolofEconomics.jpg" alt="Logo UB School of Economics"/>
+          </a>
+          <!--<img class="image" src="/assets/images/UB_SchoolofEconomics.jpg" alt="Logo UB School of Economics" />-->
         {% endif %}
 
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
