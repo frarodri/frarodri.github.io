@@ -1,4 +1,4 @@
-I am a post doctoral researcher at the [Department of Economics, Universitat de Barcelona](https://www.ub.edu/school-economics/), and a junior researcher with the [Frankfurt Quantitative Macro Group at Goethe University](https://fqmg.de/). Previously I received my PhD from [Universidad Carlos III de Madrid](http://economics.uc3m.es/) in 2021.
+I am a post doctoral researcher at the [Department of Economics, Universitat de Barcelona](https://www.ub.edu/school-economics/), a junior researcher with the [Frankfurt Quantitative Macro Group at Goethe University](https://fqmg.de/) and a member of the [Barcelona Economic Analysis Team (BEAT)](https://www.ub.edu/beat/portfolio/fjrodriguezroman/). Previously I received my PhD from [Universidad Carlos III de Madrid](http://economics.uc3m.es/) in 2021.
 
 My main area of research is macroeconomics and labour economics. In particular, I am interested in family, demography, and quantitative macroeconomics.
 
