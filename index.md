@@ -10,13 +10,12 @@ My main area of research is macroeconomics and labour economics. In particular, 
 
 Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodriguezroman@gmail.com).
 
-Come to the 2nd edition of the Demographic Change and Inequality Summer School at the Barcelona School of Economics! Info [here](https://bse.eu/study/summer-school/demographic-change-and-inequality-summer-school?utm_source=linkedin&utm_medium=professor&utm_campaign=-executive-education---2024_SS-course_cards).
-
 ## Working papers
 
 ---
 
-**The Sex Ratio, Marriage and Bargaining: A Look at China** 
+**The Sex Ratio, Marriage and Bargaining: A Look at China** \
+(submitted) \
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf','_blank')"><span class="text">Draft</span></button>
