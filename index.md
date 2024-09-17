@@ -2,6 +2,8 @@ I am a post doctoral researcher at the [Department of Economics, Universitat de 
 
 My main area of research is macroeconomics and labour economics. In particular, I am interested in family, demography, and quantitative macroeconomics.
 
+I will spend (most) of the 2024-2025 academic year as a visitor at the [International Economics Section](https://ies.princeton.edu/) at Princeton University.
+
 {::comment}
 <p><a href="/CV/Academic CV.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a></p>
 
@@ -51,7 +53,7 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 
 ---
 
-**Slums and urbanisation without structural transformation** with [Alessio Moro](http://www.alessiomoro.it/)\
+**Urbanisation, slums and structural transformation** with [Alessio Moro](http://www.alessiomoro.it/)\
 *This project is being funded with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000).*
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract3')"><span class="text">Abstract</span></button>
