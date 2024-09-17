@@ -2,7 +2,7 @@ I am a post doctoral researcher at the [Department of Economics, Universitat de 
 
 My main area of research is macroeconomics and labour economics. In particular, I am interested in family, demography, and quantitative macroeconomics.
 
-I will spend (most) of the 2024-2025 academic year as a visitor at the [International Economics Section](https://ies.princeton.edu/) at Princeton University.
+I will spend (most of) the 2024-2025 academic year as a visitor at the [International Economics Section](https://ies.princeton.edu/) at Princeton University.
 
 {::comment}
 <p><a href="/CV/Academic CV.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a></p>
