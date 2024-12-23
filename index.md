@@ -53,14 +53,13 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 
 ---
 
-**Urbanisation, slums and structural transformation** with [Alessio Moro](http://www.alessiomoro.it/)\
+**Urbanization, slums and growth** with [Alessio Moro](http://www.alessiomoro.it/)\
 *This project is being funded with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000).*
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract3')"><span class="text">Abstract</span></button>
 
 <div ID="abstract3" STYLE="display:none"><p>Urban population growth has occurred without much structural transformation in Sub-Saharan Africa: shares of employment in agriculture remain high, even in cities. Moreover, informal settlements or slums have emerged and persisted over time in the growing metropoles. This project aims to link these features of low-income country urbanisation with a dynamic spatial growth model. The expansion of the modern manufacturing and services sectors depends on the relative strength of two forces: urban congestion in the city core amplified by the slums (which is the only location in which modern economic activities may take place), and agglomeration economies created by the growing city. This framework has the potential to allow us to quantify the optimal urbanisation rate for low-income countries, and contribute to answer the question of whether they are urbanising too fast or not fast enough. </p></div>
 
-**Family Policies and Social Security** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)
 
 
 
