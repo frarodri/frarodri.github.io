@@ -87,6 +87,10 @@
       text-align: justify;
       text-justify: inter-word;
     }
+    .uni_logo {
+      width: 150px;  
+      height: auto;
+    }
     </style>
     <script>
     function ShowAndHide(abstract) {
@@ -108,7 +112,7 @@
         {% if site.logo %}
           <img class="round" src="{{site.logo | relative_url}}" alt="Logo" />
           <a id="img-link" href="https://www.wiwi.uni-frankfurt.de/en/start">
-          <img class="image" id="img-link" src="/assets/images/Logo_Goethe_University_Frankfurt.jpg" alt="Logo GUF"/>
+          <img class="uni_logo" id="img-link" src="/assets/images/Logo_Goethe_University_Frankfurt.jpg" alt="Logo GUF"/>
           </a>
           <!--<img class="image" src="/assets/images/UB_SchoolofEconomics.jpg" alt="Logo UB School of Economics" />-->
         {% endif %}
