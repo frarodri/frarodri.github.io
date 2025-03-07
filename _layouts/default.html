@@ -87,6 +87,12 @@
       text-align: justify;
       text-justify: inter-word;
     }
+    .uni_logo {
+      width: 150px;  
+      height: auto;
+      display: block; 
+      margin: 20px auto;
+    }
     </style>
     <script>
     function ShowAndHide(abstract) {
@@ -107,9 +113,11 @@
 
         {% if site.logo %}
           <img class="round" src="{{site.logo | relative_url}}" alt="Logo" />
-          <a id="img-link" href="https://www.ub.edu/school-economics/researchers/rodriguez-roman-francisco-javier/">
-          <img class="image" id="img-link" src="/assets/images/UB_SchoolofEconomics.jpg" alt="Logo UB School of Economics"/>
+          <div style="text-align: center; width: 100%;">
+            <a id="img-link" href="https://www.wiwi.uni-frankfurt.de/en/start">
+              <img class="uni_logo" id="img-link" src="/assets/images/Logo_Goethe_University_Frankfurt.jpg" alt="Logo GUF"/>
           </a>
+          </div>
           <!--<img class="image" src="/assets/images/UB_SchoolofEconomics.jpg" alt="Logo UB School of Economics" />-->
         {% endif %}
 
@@ -120,6 +128,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
+        <div style="text-align: center; width: 100%;">
         <!--<a href="mailto:fjavier.rodriguezroman@gmail.com">
         <img src="/assets/images/email.png" alt="Email icon" style="width:18px;height:18px;" /><span><p style=="font-size:18px"> Email</p></span>
         </a>
@@ -143,6 +152,7 @@
         <a id="img-link" href="/CV/Academic CV.pdf" target="_blank" rel="noopener noreferrer">
         <img class="thumbnail" id="img-link" src="/assets/images/CVpdf.png" alt="CV icon" style="width:35px;height:35px;" />
         </a>
+        </div>
         {% endif %}
 
         {% if site.show_downloads %}
