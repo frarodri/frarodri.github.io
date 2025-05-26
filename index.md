@@ -26,7 +26,6 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 <div ID="abstractjmp" STYLE="display:none"><p>Are financial incentives effective in increasing fertility rates? Empirical evidence suggests they are, primarily in the short run (around implementation). Can such policies also increase the total number of children in the long run? We address this question by using a structural life-cycle model of fertility and labor supply, calibrated to replicate the short-run effects of a cash transfer paid at childbirth implemented in 2007 in Spain. The model incorporates labor market duality, a defining feature of Spanish labor markets that negatively impacts fertility. Our calibrated model replicates a 6% increase in fertility rates in the short run but only generates a 3% rise in completed fertility over women’s lifetimes—the long run. Eliminating labor market duality increases lifetime fertility by 6.62%, but the discrepancy between short- and long-run effects of the incentive persists. These results highlight the limited impact of financial incentives alone to sustain fertility gains.</p></div>
 
 **The Sex Ratio, Marriage and Bargaining: A Look at China** \
-(submitted) \
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf','_blank')"><span class="text">Draft</span></button>
