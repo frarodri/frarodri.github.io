@@ -26,7 +26,7 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 
 **Financial Incentives to Fertility: From Short to Long Run** with [Lidia Cruces](https://sites.google.com/view/lidiacruces/home?authuser=0)\
 *[Best Paper Award](https://twitter.com/EAYEconomists/status/1700116828700176594) at the [27th](https://smye2023.carloalberto.org/) [(Spring) Meeting of Young Economists](https://www.eaye.info/eayeam), 2023* \
-(Revise and Resubmit, The Review of Economic Studies) \
+(Revise and Resubmit, **The Review of Economic Studies**) \
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstractjmp')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/Financial Incentives to Fertility From Short to Long Run.pdf','_blank')"><span class="text">Draft</span></button>
