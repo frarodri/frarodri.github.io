@@ -54,7 +54,7 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 ---
 
 **Urbanization, slums and growth** with [Alessio Moro](http://www.alessiomoro.it/)\
-*This project is being funded with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000).*
+*This project is being funded with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000)*
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract3')"><span class="text">Abstract</span></button>
 
