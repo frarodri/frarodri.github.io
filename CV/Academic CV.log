@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  27 SEP 2024 13:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  13 JUN 2025 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -310,22 +310,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 59.
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
-
- []
-
-
-Overfull \hbox (4.06203pt too wide) in paragraph at lines 158--159
-\OT1/cmr/m/n/10 State Uni-ver-sity (on-line) \OT1/cmr/bx/n/10 2019: \OT1/cmr/m/
-n/10 Work-shop on Dy-namic Macroe-co-nomics (Vigo, Spain),
- []
-
-[1
+ [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 
  []
 
@@ -338,18 +327,18 @@ L3 programming layer <2024-01-22>
 Here is how much of TeX's memory you used:
  8281 strings out of 474222
  127961 string characters out of 5750209
- 1936978 words of memory out of 5000000
+ 1935978 words of memory out of 5000000
  30481 multiletter control sequences out of 15000+600000
  559670 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,1300b,458s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,1275b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2023/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1000.pfb>
-Output written on "Academic CV.pdf" (2 pages, 94575 bytes).
+Output written on "Academic CV.pdf" (2 pages, 95755 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
