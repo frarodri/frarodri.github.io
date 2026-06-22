@@ -36,6 +36,7 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 </div>
 
 **The Sex Ratio, Marriage and Bargaining: A Look at China** with [Qing Huang](https://www.qinghuangecon.com/) and [Lintong Li](https://lintongli.weebly.com/) \
+*Reject and Resubmit, **Journal of the European Economic Association*** \
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf','_blank')"><span class="text">Draft</span></button>
