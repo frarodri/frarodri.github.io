@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  29 JUN 2025 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  22 JUN 2026 23:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,34 +314,40 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
-
+Overfull \hbox (0.1389pt too wide) in paragraph at lines 154--158
+[]\OT1/cmr/bx/n/10 Goethe Uni-ver-sity Frank-furt: \OT1/cmr/m/n/10 Math-e-mat-i
+-cal Meth-ods Part 2 (PhD, Win-ter 2025),
  []
 
 [2]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+[3]
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8281 strings out of 474222
- 127961 string characters out of 5750209
+ 8282 strings out of 474222
+ 127967 string characters out of 5750209
  1935978 words of memory out of 5000000
  30481 multiletter control sequences out of 15000+600000
  559670 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,1275b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,1276b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2023/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1000.pfb>
-Output written on "Academic CV.pdf" (2 pages, 95797 bytes).
+Output written on "Academic CV.pdf" (3 pages, 96929 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 55 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
