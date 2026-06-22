@@ -20,6 +20,7 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstractjmp')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/Financial Incentives to Fertility From Short to Long Run.pdf','_blank')"><span class="text">Draft</span></button>
+<button class="draft_button" onclick="ShowAndHide('mediajmp')"><span class="text">Media Coverage</span></button>
 
 <div ID="abstractjmp" STYLE="display:none"><p>Are financial incentives effective in increasing fertility rates? Empirical evidence suggests they are, primarily in the short run (around implementation). Can such policies also increase the total number of children in the long run? We address this question by using a structural life-cycle model of fertility and labor supply, calibrated to replicate the short-run effects of a cash transfer paid at childbirth implemented in 2007 in Spain. The model incorporates labor market duality, a defining feature of Spanish labor markets that negatively impacts fertility. Our calibrated model replicates a 6% increase in fertility rates in the short run but only generates a 3% rise in completed fertility over women’s lifetimes—the long run. Eliminating labor market duality increases lifetime fertility by 6.62%, but the discrepancy between short- and long-run effects of the incentive persists. These results highlight the limited impact of financial incentives alone to sustain fertility gains.</p></div>
 
@@ -40,7 +41,6 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf','_blank')"><span class="text">Draft</span></button>
-<button class="draft_button" onclick="ShowAndHide('mediajmp')"><span class="text">Media Coverage</span></button>
 
 <div ID="abstract1" STYLE="display:none"><p>We study marriage and time allocation decisions in the context of an increase in the sex ratio, as observed in China between 1990 and 2010. First, we document a rise in the leisure time ratio between married women and men during this period. Then we develop a model of marriage and time allocation decisions, and compare the predictive power of unitary (no bargaining) and collective versions (Egalitarian and Nash bargaining). We find that the collective model with Nash bargaining provides the best fit in terms of time allocation. To isolate the effect of changes in the sex ratio from other factors such as rising wages and increasing wage inequality, we perform a decomposition exercise. The rise in the sex ratio accounts for an additional hour and a half of weekly leisure for married women, with the opposite effect observed for men.</p></div>
 
