@@ -20,10 +20,24 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstractjmp')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/Financial Incentives to Fertility From Short to Long Run.pdf','_blank')"><span class="text">Draft</span></button>
+<button class="draft_button" onclick="ShowAndHide('mediajmp')"><span class="text">Media Coverage</span></button>
 
 <div ID="abstractjmp" STYLE="display:none"><p>Are financial incentives effective in increasing fertility rates? Empirical evidence suggests they are, primarily in the short run (around implementation). Can such policies also increase the total number of children in the long run? We address this question by using a structural life-cycle model of fertility and labor supply, calibrated to replicate the short-run effects of a cash transfer paid at childbirth implemented in 2007 in Spain. The model incorporates labor market duality, a defining feature of Spanish labor markets that negatively impacts fertility. Our calibrated model replicates a 6% increase in fertility rates in the short run but only generates a 3% rise in completed fertility over women’s lifetimes—the long run. Eliminating labor market duality increases lifetime fertility by 6.62%, but the discrepancy between short- and long-run effects of the incentive persists. These results highlight the limited impact of financial incentives alone to sustain fertility gains.</p></div>
 
+<div ID="mediajmp" STYLE="display:none">
+<p>
+<ul>
+<li><a href="https://elobservatoriosocial.fundacionlacaixa.org/en/-/do-financial-incentives-boost-fertility-in-the-long-term-1" target="_blank" rel="noopener noreferrer">"la Caixa" Foundation Social Observatory</a></li>
+
+<li><a href="https://www.eleconomista.es/branded-content/noticias/13939893/05/26/las-ayudas-impulsan-la-natalidad-pero-no-logran-dar-estabilidad-laboral.html" target="_blank" rel="noopener noreferrer">El Economista (in Spanish)</a></li>
+
+<li><a href="https://www.20minutos.es/nacional/las-ayudas-economicas-maternidad-contribuyen-natalidad-corto-plazo-pero-son-mas-utiles-las-medidas-conciliacion_6975220_0.html" target="_blank" rel="noopener noreferrer">20 Minutos (in Spanish)</a></li>
+</ul>
+</p>
+</div>
+
 **The Sex Ratio, Marriage and Bargaining: A Look at China** with [Qing Huang](https://www.qinghuangecon.com/) and [Lintong Li](https://lintongli.weebly.com/) \
+*Reject and Resubmit, **Journal of the European Economic Association*** \
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract1')"><span class="text">Abstract</span></button>
 <button class="draft_button" onclick=" window.open('Papers/The Sex Ratio, Marriage and Bargaining A Look at China.pdf','_blank')"><span class="text">Draft</span></button>
@@ -51,12 +65,12 @@ Get in touch with me at [fjavier.rodriguezroman@gmail.com](mailto:fjavier.rodrig
 
 ---
 
-**Urbanization, slums and growth** with [Alessio Moro](http://www.alessiomoro.it/)\
+**Urbanization, Slums and Growth** \
 *This project is being funded with a [Small Research Grant](https://steg.cepr.org/funding/small-phd-research-grants-srgs) from the [Structural Transformation and Economic Growth (STEG)](https://steg.cepr.org/) programme (£25000)*
 <span class="brsmall"></span> 
 <button class="abstract_button" onclick="ShowAndHide('abstract3')"><span class="text">Abstract</span></button>
 
-<div ID="abstract3" STYLE="display:none"><p>Urban population growth has occurred without much structural transformation in Sub-Saharan Africa: shares of employment in agriculture remain high, even in cities. Moreover, informal settlements or slums have emerged and persisted over time in the growing metropoles. This project aims to link these features of low-income country urbanisation with a dynamic spatial growth model. The expansion of the modern manufacturing and services sectors depends on the relative strength of two forces: urban congestion in the city core amplified by the slums (which is the only location in which modern economic activities may take place), and agglomeration economies created by the growing city. This framework has the potential to allow us to quantify the optimal urbanisation rate for low-income countries, and contribute to answer the question of whether they are urbanising too fast or not fast enough. </p></div>
+<div ID="abstract3" STYLE="display:none"><p>Urbanization is one of the defining features of economic development. As countries grow, workers move from rural areas into cities and from agricultural to non-agricultural employment. In many low-income countries, however, urbanization is accompanied by the emergence and persistence of slums. These informal settlements often lack secure property rights and adequate housing conditions, yet they provide an affordable entry point into urban labor markets. This paper studies the relationship between slums, occupational mobility, and economic growth. We ask whether slums merely reflect urban poverty or whether they facilitate the movement of workers from low-productivity rural agriculture into higher-productivity urban activities. Understanding this distinction is important for policy because many governments devote substantial resources to slum clearance and relocation programs. If slums serve as a stepping stone into urban labor markets, policies aimed at eliminating them may generate unintended consequences for urbanization and growth. </p></div>
 
 
 
